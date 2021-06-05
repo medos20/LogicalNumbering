@@ -13,10 +13,10 @@ open numbered document and run the script and select the needed operation
 # About
 ![User Interface](https://github.com/medos20/LogicalNumbering/blob/main/LN_about.jpg)
 
-UI Design and Programming By : Mohammed Ibrahim
+Script UI Design and Programming By : Mohammed Ibrahim
 Contact me : medos20.mi@gmail.com.
 
-# Download Link :
+# Direct Download Link :
 https://github.com/medos20/LogicalNumbering/blob/main/Logical%20Numbering_v1.07%20Final.zip
 
 # Youtube Tutorial
