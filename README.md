@@ -21,6 +21,6 @@ https://github.com/medos20/LogicalNumbering/blob/main/Logical%20Numbering_v1.07%
 
 # Youtube Tutorial
 See Youtube Video Tutorial about the Script (in Arabic Language but Understandable by Examples)
-https://youtu.be/7BOhKPejA44 [![IMAGE ALT TEXT HERE](https://github.com/medos20/LogicalNumbering/blob/main/LN_ytcover.jpg)
+https://youtu.be/7BOhKPejA44 [![IMAGE ALT TEXT HERE](https://github.com/medos20/LogicalNumbering/blob/main/LN_ytcover.jpg)(https://youtu.be/7BOhKPejA44)
 
 
