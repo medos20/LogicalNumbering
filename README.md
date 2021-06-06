@@ -24,5 +24,5 @@ Contact me : medos20.mi@gmail.com.
 
 # Youtube Tutorial
 See Youtube Video Tutorial about the Script (in Arabic Language but Understandable by Examples)
-[![IMAGE ALT TEXT HERE](https://github.com/medos20/LogicalNumbering/blob/main/LN_ytcover.jpg?raw=true)](https://youtu.be/7BOhKPejA44)
+[![IMAGE ALT TEXT HERE](https://github.com/medos20/LogicalNumbering/blob/main/LN_ytcover2.jpg?raw=true)](https://youtu.be/7BOhKPejA44)
 
